@@ -1,5 +1,5 @@
 ### Hi there 👋
-##work, study, entertainment
+work, study, entertainment
 
 #Education
 

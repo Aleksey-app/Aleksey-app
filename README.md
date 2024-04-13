@@ -1,11 +1,16 @@
-center ### Aleksey-app
-
+### Aleksey-app
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=work+study+entertainment)](https://git.io/typing-svg)
 
+##Education
 
-#Education
+**Programming-in-C-
+**Computers-and-system
+**OS-Operating-system
+**algorithms-and-data-structures
+**Statistical-analysis-RStudio
+**Creating-a-program**
 
-**Programming-in-C-**
+
 <!--
 **Aleksey-app/Aleksey-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

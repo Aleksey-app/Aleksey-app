@@ -3,11 +3,11 @@
 
 ##Education
 
-**Programming-in-C-
-**Computers-and-system
-**OS-Operating-system
-**algorithms-and-data-structures
-**Statistical-analysis-RStudio
+**Programming-in-C-**
+**Computers-and-system**
+**OS-Operating-system**
+**algorithms-and-data-structures**
+**Statistical-analysis-RStudio**
 **Creating-a-program**
 
 

@@ -1,6 +1,8 @@
 ### Hi there 👋
 ##work, study, entertainment
+
 #Education
+
 **Programming-in-C-**
 [Click here](/Programming-in-C-)
 <!--

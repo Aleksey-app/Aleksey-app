@@ -1,4 +1,7 @@
-### Aleksey-app 
+<p align="center">
+  <a href="https://github.com/Aleksey-app">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+</p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=work+study+entertainment)](https://git.io/typing-svg)
 ## Education
 

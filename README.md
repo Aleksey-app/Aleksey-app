@@ -4,23 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=work+study+entertainment)](https://git.io/typing-svg)
 ## Education
 
-**Programming-in-C-**
-
-**Computers-and-system**
-
-**OS-Operating-system**
-
-**algorithms-and-data-structures**
-
-**Statistical-analysis-RStudio**
-
-**Creating-a-program**
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-app&show_icons=true&theme=radical)
-
-
 
 <!-- Social icons section -->
 <p align="center">
